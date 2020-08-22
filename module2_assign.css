@@ -21,7 +21,6 @@ p#chicken{
 	float: right;
 	font-size: large;
 	margin: 0px;
-    padding: 2px 50px 2px 10px;
 
 }
 p#beef{
@@ -33,7 +32,6 @@ p#beef{
 	text-align: center;
 	font-size: large;
 	margin: 0px;
-    padding: 2px 50px 2px 10px;
 }
 p#sushi{
 	background-color: green;
@@ -44,7 +42,6 @@ p#sushi{
 	text-align: center;
 	font-size: large;
 	margin: 0px;
-    padding: 2px 50px 2px 10px;
 }
 @media (min-width: 991px){
 	.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10,

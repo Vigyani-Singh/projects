@@ -1,0 +1,83 @@
+/*body{
+	background-color: #9ee3e3;
+}*/
+#intro{
+	background-color:#BAF1E4;
+	height: 680px;
+}
+#skills{
+	background-color:white;
+	height: 680px;
+}
+#collapsible-nav a{
+	color: white;
+	font-family: sans-serif;
+	font-size: 17px;
+	margin-left: 25px;
+	float: right;
+}
+#collapsible-nav a:hover{
+	background-color: #BAF1E4;
+	color: black;
+	border-radius: 5px;	
+}
+h1{
+	font-weight: bold;
+	margin-top: 30%;
+	margin-left: 25%;
+	font-family: Aldrich;
+	font-size: 70px;
+}
+.logo{
+	height: 80px;
+	width: 80px;
+	background-color: #FA3C5A;
+	border-radius: 150px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-left: 30px;
+	margin-top: 20px;
+}
+.checked{
+	color: orange;
+}
+.fa-star{
+	margin: 5px;
+	margin-top: 30px;
+}
+#contact{
+	background-color:#343333;
+	height: 250px;
+}
+.heading-skills{
+	
+	background-color: #C8E4FF;
+	font-family: Aldrich;
+}
+#projects{
+	background-color: #BAF1E4;
+	height: 680px;
+}
+#demo{
+	width: 300px;
+	height: 400px;
+	background-color: #F18D9E;
+	margin-top: 100px;
+	border-radius: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#work1{
+	height: 300px;
+	width: 470px;
+	margin-top: 50px;
+	margin-left: 33px;
+	border-radius: 30px;
+}
+.my-projects{
+	background-color: #fc7b8f;
+	height: 400px;
+}
+@media(min-width: 500px) and (max-width: 767px){
+	
+}
+
+
